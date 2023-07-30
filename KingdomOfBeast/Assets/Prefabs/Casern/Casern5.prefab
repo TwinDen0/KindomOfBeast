@@ -71,7 +71,7 @@ MonoBehaviour:
   speed: 1
   prefabWarrior: {fileID: 8463482503398816165, guid: 6ce5f7ca5e95e7a448f65b4ff5802aab, type: 3}
   spawnPosition: {fileID: 1331425766019944239}
-  numberWarriors: 30
+  numberWarriors: 10
 --- !u!1 &6313529728665454527
 GameObject:
   m_ObjectHideFlags: 0
