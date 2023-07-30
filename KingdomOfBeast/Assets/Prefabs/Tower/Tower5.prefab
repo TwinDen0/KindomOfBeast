@@ -304,7 +304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.2
-  prefabArrow: {fileID: 2254263638994722601, guid: 25adf0cf31ac06c4d82a61ed617ecf2c, type: 3}
+  prefabArrow: {fileID: 2254263638994722601, guid: 99565b591e892b04f8e1d901a0a4572a, type: 3}
   startShot: {fileID: 6963320473333650663}
   shotDistance: 5
   animator: {fileID: 3935543963658190348}

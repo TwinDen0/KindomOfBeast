@@ -216,7 +216,7 @@ GameObject:
   - component: {fileID: 8463482503398816164}
   - component: {fileID: 1896206317490418465}
   m_Layer: 0
-  m_Name: Chicken
+  m_Name: Chicken4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -326,7 +326,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 2234568153365378825}
-  hp: 10
+  hp: 15
   strong: 5
   distanceForHit: 0.5
   targetEnemy: {fileID: 0}

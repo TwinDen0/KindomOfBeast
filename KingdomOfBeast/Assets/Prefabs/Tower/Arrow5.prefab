@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2254263638994722607}
   - component: {fileID: 2254263638994722600}
   m_Layer: 0
-  m_Name: Arrow
+  m_Name: Arrow5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf085b0d5f73ca6489bb1863883c6688, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  strong: 4
+  strong: 12
   enemy: {fileID: 0}
   speed: 0.12
   offsetAngle: -45
